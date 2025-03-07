@@ -4,7 +4,7 @@ This script extracts decks from the [Yu-Gi-Oh! Card Database](https://www.db.yug
 
 ## Features
 - **Extract Decks:** Pulls deck data directly from the official Yu-Gi-Oh! Card Database.
-- **Format Decklists:** Converts the extracted data into a structured format that follows the **Decklist** template on Yugipedia.
+- **Format Decklists:** Converts the extracted data into a structured format that follows the {{Decklist}} template on Yugipedia.
 
 ## Prerequisites
 
