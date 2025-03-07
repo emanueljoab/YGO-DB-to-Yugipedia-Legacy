@@ -14,7 +14,11 @@ This script extracts decks from the [Yu-Gi-Oh! Card Database](https://www.db.yug
 
 - If you have [Git](https://git-scm.com/downloads) installed, navigate to the folder where you want to install the project, open the Terminal and run the following command:
 
-```batch
+```powershell
+git clone https://github.com/emanueljoab/YGO-DB-to-Yugipedia.git; cd YGO-DB-to-Yugipedia; npm install
+```
+
+```cmd
 git clone https://github.com/emanueljoab/YGO-DB-to-Yugipedia.git && cd YGO-DB-to-Yugipedia && npm install
 ```
 
