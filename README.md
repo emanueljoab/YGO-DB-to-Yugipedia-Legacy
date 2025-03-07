@@ -18,6 +18,8 @@ If you have [Git](https://git-scm.com/downloads) installed, navigate to the fold
 git clone https://github.com/emanueljoab/YGO-DB-to-Yugipedia.git && cd YGO-DB-to-Yugipedia && npm install
 ```
 
-## Run
+## How to use
 
-Run `start.bat`.
+- Run `start.bat`.
+- Enter a valid YGO DB deck URL.
+- The formatted decklist will be saved as a .txt file inside the `Decklist` folder.
