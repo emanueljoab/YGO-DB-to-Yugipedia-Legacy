@@ -12,7 +12,7 @@ This script extracts decks from the [Yu-Gi-Oh! Card Database](https://www.db.yug
 
 ## Installation
 
-- If you have [Git](https://git-scm.com/downloads) installed, navigate to the folder where you want to install the project, and run one of the following commands in your favorite terminal:
+- If you have [Git](https://git-scm.com/downloads) installed, open a terminal in the folder where you want to install the project, and run one of the following commands:
 
 PowerShell:
 ```powershell
