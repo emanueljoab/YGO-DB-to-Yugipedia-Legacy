@@ -1,10 +1,10 @@
 # YGO-DB-to-Yugipedia
 
-This script extracts Yu-Gi-Oh! decks from the Yu-Gi-Oh! Card Database and formats them for Yugipedia's Decklist template.
+This script extracts decks from the [Yu-Gi-Oh! Card Database](https://www.db.yugioh-card.com/yugiohdb/?request_locale=en) and formats them for Yugipedia's Decklist template.
 
 ## Prerequisites
 
-- **Node.js** (version 12 or higher)
+- **[Node.js](https://nodejs.org/)** (version 12 or higher)
 
 ## Installation
 
