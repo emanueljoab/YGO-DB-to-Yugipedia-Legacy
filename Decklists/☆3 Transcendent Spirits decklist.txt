@@ -1,0 +1,41 @@
+{{Decklist|☆3 Transcendent Spirits
+<!-- Main Deck -->
+| total m = 24
+| effect monsters =
+* [[Magician of Faith]] x3
+* [[Spirit Reaper]] x2
+* [[Marshmallon]] x2
+* [[Wall of Illusion]] x2
+* [[Breaker the Magical Warrior]]
+| spirit monsters =
+* [[Maharaghi]]
+* [[Susa Soldier]] x3
+* [[Asura Priest]] x3
+* [[Tsukuyomi]] x3
+* [[Dark Dust Spirit]] x2
+* [[Yamata Dragon]]
+* [[Hino-Kagu-Tsuchi]]
+| total s = 10
+| spells =
+* [[Swords of Revealing Light]]
+* [[Pot of Greed]]
+* [[Change of Heart]]
+* [[Giant Trunade]]
+* [[Nobleman of Crossout]] x2
+* [[Creature Swap]] x2
+* [[Snatch Steal]]
+* [[Mystical Space Typhoon]]
+| total t = 6
+| traps =
+* [[Torrential Tribute]]
+* [[Magic Cylinder]]
+* [[Ultimate Offering]] x3
+* [[Spirit's Invitation]]
+
+<!-- Extra Deck -->
+| total me = 0
+
+
+<!-- Side Deck -->
+
+}}
