@@ -49,7 +49,7 @@ function promptUserForURL() {
     });
 
     return new Promise((resolve) => {
-        rl.question('Enter deck URL: ', (url) => {
+        rl.question('> Enter deck URL: ', (url) => {
             rl.close();
             resolve(url);
         });
@@ -79,7 +79,7 @@ async function fetchDeckData() {
                 }
 
                 const DECK_URL = ensureEnglishURL(userURL); // Ensure the URL is in English
-                console.log(`Navigating to the entered page...`);
+                console.log(`Navigating to the entered page. Please wait...`);
                 await page.goto(DECK_URL, { waitUntil: 'networkidle2' });
 
                 console.log('Waiting for the page elements to load...');
