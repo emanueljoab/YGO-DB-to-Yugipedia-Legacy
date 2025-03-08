@@ -11,7 +11,7 @@ This script extracts decks from the [Yu-Gi-Oh! Card Database](https://www.db.yug
 - **[Node.js](https://nodejs.org/)** (version 12 or higher)
 
 ## Installation
-### Using Terminal (need [Git](https://git-scm.com/downloads)
+### Using Terminal (need [Git](https://git-scm.com/downloads](https://nodejs.org/en/download)
 - Open a terminal in the folder where you want to install the project, and run **one of** the following commands based on your CLI:
 
 PowerShell:
