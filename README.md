@@ -24,7 +24,7 @@ CMD:
 git clone https://github.com/emanueljoab/YGO-DB-to-Yugipedia.git && cd YGO-DB-to-Yugipedia && npm install
 ```
 
-###ZIP file
+### ZIP file
 - Download [ZIP file](https://github.com/emanueljoab/YGO-DB-to-Yugipedia/archive/refs/heads/main.zip)
 - Extract it,
 - Navigate to the folder,
