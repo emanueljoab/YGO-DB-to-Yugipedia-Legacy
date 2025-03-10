@@ -39,6 +39,7 @@ git clone https://github.com/emanueljoab/YGO-DB-to-Yugipedia.git && cd YGO-DB-to
 
 - Run `start.bat`.
 - Enter a valid YGO DB deck URL.
+- Enter `Y` if it is a Master Duel deck, otherwise enter `N`.
 - The formatted decklist will be saved as a .txt file inside the `Decklist` folder.
 
 ## Notes
