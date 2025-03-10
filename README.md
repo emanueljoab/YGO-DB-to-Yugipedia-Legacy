@@ -15,7 +15,7 @@ This script extracts decks from the [Yu-Gi-Oh! Card Database](https://www.db.yug
 
 Choose one of the two options below to install.
 
-### Option 1: Via terminal requires [Git](https://git-scm.com/downloads)
+### Option 1: Via terminal (requires [Git](https://git-scm.com/downloads))
 - Open a terminal in the folder where you want to install the project.
 - Enter **one of** the following commands based on your CLI:
 
