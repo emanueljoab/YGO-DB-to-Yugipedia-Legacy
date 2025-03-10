@@ -17,7 +17,7 @@ Choose one of the two options below to install.
 
 ### Option 1: Via terminal (requires [Git](https://git-scm.com/downloads](https://nodejs.org/en/download)))
 - Open a terminal in the folder where you want to install the project.
-- Run **one of** the following commands based on your CLI:
+- Enter **one of** the following commands based on your CLI:
 
 PowerShell:
 ```powershell
@@ -35,7 +35,7 @@ git clone https://github.com/emanueljoab/YGO-DB-to-Yugipedia.git && cd YGO-DB-to
 - Extract it.
 - Navigate to the folder.
 - Open the terminal.
-- Run the command `npm install`.
+- Enter `npm install`.
 
 ## How to use
 
