@@ -9,7 +9,7 @@ This script extracts decks from the [Yu-Gi-Oh! Card Database](https://www.db.yug
 
 ## Prerequisites
 
-- **[Node.js](https://nodejs.org/)**.
+- **[Node.js](https://nodejs.org/](https://nodejs.org/en/download)**.
 
 ## Installation
 
