@@ -1,3 +1,10 @@
+## Notice: This script is deprecated
+
+A newer and updated version is available. It does not require any setup or prerequisites — just download and run.
+
+You can access the latest version here: https://github.com/emanueljoab/YGO-DB-to-Yugipedia
+
+
 # YGO-DB-to-Yugipedia
 
 This script extracts decks from the [Yu-Gi-Oh! Card Database](https://www.db.yugioh-card.com/yugiohdb/?request_locale=en) and formats them for [Yugipedia's Decklist template](https://yugipedia.com/wiki/Template:Decklist).
